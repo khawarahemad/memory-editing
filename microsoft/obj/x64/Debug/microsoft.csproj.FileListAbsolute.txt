@@ -1,0 +1,72 @@
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\microsoft.exe.config
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\microsoft.exe
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\microsoft.pdb
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\Guna.UI2.dll
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\Memory.dll
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\Memory.pdb
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\x64\Debug\Memory.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.AssemblyReference.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.Login.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.Form2.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.Properties.Resources.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.GenerateResource.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.CoreCompileInputs.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Up2Date
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.exe
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\x64\Debug\microsoft.pdb
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\microsoft.exe.config
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\microsoft.exe
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\microsoft.pdb
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\Memory.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\System.Buffers.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\System.Memory.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.AssemblyReference.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.Login.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.Form2.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.Properties.Resources.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.GenerateResource.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.CoreCompileInputs.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Fody.CopyLocal.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Up2Date
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.exe
+C:\Users\khawar\source\repos\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.pdb
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\microsoft.exe.config
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\microsoft.exe
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\microsoft.pdb
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\System.Buffers.xml
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\System.Memory.xml
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.AssemblyReference.cache
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.Login.resources
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.Form2.resources
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.Properties.Resources.resources
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.GenerateResource.cache
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.CoreCompileInputs.cache
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Fody.CopyLocal.cache
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Up2Date
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.exe
+C:\Users\khawa\Documents\microsoft\microsoft\microsoft\obj\x64\Debug\microsoft.pdb
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.AssemblyReference.cache
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.Login.resources
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.Form2.resources
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.Properties.Resources.resources
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.GenerateResource.cache
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.CoreCompileInputs.cache
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.exe
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.pdb
+G:\my things\microsoft\microsoft\bin\x64\Debug\microsoft.exe.config
+G:\my things\microsoft\microsoft\bin\x64\Debug\microsoft.exe
+G:\my things\microsoft\microsoft\bin\x64\Debug\microsoft.pdb
+G:\my things\microsoft\microsoft\bin\x64\Debug\System.Buffers.xml
+G:\my things\microsoft\microsoft\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\my things\microsoft\microsoft\bin\x64\Debug\System.Memory.xml
+G:\my things\microsoft\microsoft\bin\x64\Debug\System.Numerics.Vectors.xml
+G:\my things\microsoft\microsoft\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Fody.CopyLocal.cache
+G:\my things\microsoft\microsoft\obj\x64\Debug\microsoft.csproj.Up2Date
+G:\my things\microsoft\microsoft\bin\x64\Debug\Memory.xml

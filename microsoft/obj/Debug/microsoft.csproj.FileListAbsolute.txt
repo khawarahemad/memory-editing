@@ -1,0 +1,16 @@
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\microsoft.exe.config
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\microsoft.exe
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\microsoft.pdb
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\Guna.UI2.dll
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\Memory.dll
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\Memory.pdb
+C:\Users\khawar\source\repos\microsoft\microsoft\bin\Debug\Memory.xml
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.csproj.AssemblyReference.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.Login.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.Form2.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.Properties.Resources.resources
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.csproj.GenerateResource.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.csproj.CoreCompileInputs.cache
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.csproj.Up2Date
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.exe
+C:\Users\khawar\source\repos\microsoft\microsoft\obj\Debug\microsoft.pdb
